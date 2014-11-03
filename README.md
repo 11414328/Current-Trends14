@@ -1,2 +1,19 @@
 Current-Trends14
 ================
+This report examines the graph created within Gephi and analyses the content of the graph alongside the terms and concepts. It also summarises the process by which the graph was created. 
+	
+The graph is very much a partial network due to the fact that a sample size was chosen (using the degree range filter) (Hansen et al. 2011, 37). It is very much a multimodal network because it focuses entirely on individual users (in this case, friends of a Facebook user) (2011, 37). 
+
+The nodes (or vertices) within the graph very much represent the followers (or in this case friends) of a Facebook user (2011, 34). Visually within the graph, the nodes are indicated by the spheres and labels which indicate the name of the user. However, Hansen et al. also add that nodes could also represent social structures, such as organisations and countries (2011, 43). The edges (or links) that move from node to node within the graph very much represent the connection (or relationship) each user has to one another (2011, 43). Visually the edges are the lines that link each node, where an arrow indicates the direction of the link. Hansen et al. state that there could only be two types of edges; the most likely in this case being directed edges (2011, 34). This is due to the fact that the edges have a “clear origin and destination”, highlighting the relationships in social networks (2011, 34). 
+The concept of degree centrality is very much related to how many links are attached to the node (2011, 40). Hansen et al. very much view it as a measure of popularity, but this could regarded as a very basic explanation (2011, 40). Within the graph, this is very much evident. The number of degrees varies greatly from 3 to 7. Betweenness centrality is very much linked to the concept of bridging (2011, 40). Betweenness centrality is used as means of measuring the distance between one node and another, whereas the bridging score is measured by highlighting how many nodes lie in between two nodes (2011, 40). 
+
+The concept of closeness centrality is very much about analysing the “average” distance between two nodes (2011, 40 – 41).  Hansen et al. explains that having one node close to another (close connection) is an indicator that a “low closeness centrality” is present; meaning those two nodes are very close (2011, 41). The eigen-vector centrality is a concept more suited to those with few connections (2011, 40). However the centrality would only be applied if these few connections had a high closeness centrality (2011, 41). In the case of this graph, it was not applied due to the fact the graph originally had a large number of connections before filtering. 
+
+
+In order to create the graph, a file was downloaded from Netvizz in a GDF format. Once opened in Gephi, the layout of the graph was changed to that of Fruchterman Reingold in order to achieve a clear and spread out appearance. Following this, modularity was run in order to colour the nodes, edges and particular clusters (in this case, green, yellow and red). In order to create a more partial network (hence making the graph clearer to read) the topology filter was selected. Using the degree range filter, ranging from 15 to 50, it allowed the graph to be clear, showing edges and nodes. In the preview section, labels and arrows were added and it was exported to PDF. 
+
+In conclusion, this report has demonstrated the concepts related to Gephi and applied them to the graph in question. The process by which the graph was created was also explained to allow an insight into what particular tools and processes were used to achieve a clear and readable graph.
+ 
+#####Bibliography#####
+Hansen, D. L., Shneiderman, B., &amp; Smith, M. A. (2011). Analyzing social media networks with NodeXL: Insights from a connected world.  Amsterdam: Elsevier, Morgan Kaufmann.
+
