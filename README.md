@@ -15,5 +15,5 @@ In order to create the graph, a file was downloaded from Netvizz in a GDF format
 In conclusion, this report has demonstrated the concepts related to Gephi and applied them to the graph in question. The process by which the graph was created was also explained to allow an insight into what particular tools and processes were used to achieve a clear and readable graph.
  
 #####Bibliography#####
-Hansen, D. L., Shneiderman, B., &amp; Smith, M. A. (2011). Analyzing social media networks with NodeXL: Insights from a connected world.  Amsterdam: Elsevier, Morgan Kaufmann.
+Hansen, D. L., Shneiderman, B., &amp; Smith, M. A. (2011). <em>Analyzing social media networks with NodeXL: Insights from a connected world.</em>  Amsterdam: Elsevier, Morgan Kaufmann.
 
