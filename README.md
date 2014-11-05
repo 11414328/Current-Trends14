@@ -13,7 +13,7 @@ The concept of closeness centrality is very much about analysing the â€œaverageâ
 In order to create the graph, a file was downloaded from Netvizz in a GDF format. Once opened in Gephi, the layout of the graph was changed to that of Fruchterman Reingold in order to achieve a clear and spread out appearance. Following this, modularity was run in order to colour the nodes, edges and particular clusters (in this case, green, yellow and red). In order to create a more partial network (hence making the graph clearer to read) the topology filter was selected. Using the degree range filter, ranging from 15 to 50, it allowed the graph to be clear, showing edges and nodes. In the preview section, labels and arrows were added and it was exported to PDF. 
 
 In conclusion, this report has demonstrated the concepts related to Gephi and applied them to the graph in question. The process by which the graph was created was also explained to allow an insight into what particular tools and processes were used to achieve a clear and readable graph.
- 
+<hr/>
 #####Bibliography#####
 Hansen, D. L., Shneiderman, B., &amp; Smith, M. A. (2011). <em>Analyzing social media networks with NodeXL: Insights from a connected world.</em>  Amsterdam: Elsevier, Morgan Kaufmann.
 
